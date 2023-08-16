@@ -1,0 +1,27 @@
+{
+  "name": "stream-pay-app-example",
+  "version": "1.0.0",
+  "description": "StreamPay Wallet Application",
+  "main": "npm start",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stream-protocol/stream-pay-app-example.git"
+  },
+  "keywords": [
+    "streampay",
+    "wallet",
+    "stream_token",
+    "solana",
+    "token",
+    "swap"
+  ],
+  "author": "Stream Protocol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stream-protocol/stream-pay-app-example/issues"
+  },
+  "homepage": "https://github.com/stream-protocol/stream-pay-app-example#readme"
+}
